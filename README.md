@@ -1,3 +1,4 @@
+
 # review-project
 
 <a name="readme-top"></a>
@@ -47,6 +48,8 @@
 ### Key Features
 
 This is a youtube clone project designed by me.
+
+Designed with HTML and CSS.
 
 > Describe between 1-3 key features of the application.
 
